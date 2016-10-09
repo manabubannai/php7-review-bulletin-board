@@ -26,11 +26,11 @@ session_start();
 			</div>
 			<div id="navbar" class="navbar-collapse collapse">
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="detail.php">カテゴリ①</a></li>
-					<li><a href="detail.php">カテゴリ②</a></li>
-					<li><a href="detail.php">カテゴリ③</a></li>
-					<li><a href="login.php">ログイン</a></li>
-					<li><a href="signup.php">会員登録</a></li>
+					<li><a href="#1"><a href="detail.php">カテゴリ①</a></a></li>
+					<li><a href="#1"><a href="detail.php">カテゴリ②</a></a></li>
+					<li><a href="#1"><a href="detail.php">カテゴリ③</a></a></li>
+					<li><a href="#1"><a href="login.php">ログイン</a></a></li>
+					<li><a href="#1"><a href="signup.php">会員登録</a></a></li>
 				</ul>
 			</div><!--/.nav-collapse -->
 		</div><!--/.container-fluid -->
